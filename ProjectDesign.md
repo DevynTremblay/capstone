@@ -25,3 +25,8 @@ Add to any existing design an auto-balancing mechanism such as found in a
 Segway, except with the balance axis perpendicular to the axis of travel. This
 replaces training wheels and allows the bike to remain vertical even while
 stationary.
+
+-----------
+Devyn
+i see one issue with this, it may alter the bikes total mobility and therefore prevent the speed in turning that we may need to use
+if anything we need a light wieght mid-bike ball that hangs off allowing the bike a proper stability while riding
