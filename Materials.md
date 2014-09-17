@@ -16,5 +16,14 @@ horn(y)s ;]
 
 
 What we want the bike to possess:
-Self ba
-5
+Self balancing
+Safety Enhancments
+Self-proppellled movement system
+Light system
+Water container
+Speedometer
+Efficient speed control
+brakes
+barium
+URANIUM 247
+
